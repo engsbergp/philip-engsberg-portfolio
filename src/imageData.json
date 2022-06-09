@@ -1,0 +1,584 @@
+{
+  "infrared":[
+    {
+      "name":"Blue Ridge Parkway Infrared Image",
+      "url": "images/infrared/brp1.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image1",
+      "url": "images/infrared/channel-islands1.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image2",
+      "url": "images/infrared/channel-islands2.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image3",
+      "url": "images/infrared/channel-islands3.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image4",
+      "url": "images/infrared/channel-islands4.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image5",
+      "url": "images/infrared/channel-islands5.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image6",
+      "url": "images/infrared/channel-islands6.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image7",
+      "url": "images/infrared/channel-islands7.jpg"
+    },
+    {
+      "name":"Devils Lake Image1",
+      "url": "images/infrared/devils-lake1.jpg"
+    },
+    {
+      "name":"Devils Lake Image2",
+      "url": "images/infrared/devils-lake2.jpg"
+    },
+    {
+      "name":"Devils Lake Image3",
+      "url": "images/infrared/devils-lake3.jpg"
+    },
+    {
+      "name":"Devils Lake Image4",
+      "url": "images/infrared/devils-lake4.jpg"
+    },
+    {
+      "name":"Devils Lake Image5",
+      "url": "images/infrared/devils-lake5.jpg"
+    },
+    {
+      "name":"Devils Lake Image6",
+      "url": "images/infrared/devils-lake6.jpg"
+    },
+    {
+      "name":"Devils Lake Image7",
+      "url": "images/infrared/devils-lake7.jpg"
+    },
+    {
+      "name":"Santa Monica Image1",
+      "url": "images/infrared/la1.jpg"
+    },
+    {
+      "name":"Santa Monica Image2",
+      "url": "images/infrared/la2.jpg"
+    },
+    {
+      "name":"Santa Monica Image3",
+      "url": "images/infrared/la3.jpg"
+    },
+    {
+      "name":"Santa Monica Image4",
+      "url": "images/infrared/la4.jpg"
+    },
+    {
+      "name":"Santa Monica Image5",
+      "url": "images/infrared/la5.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image1",
+      "url": "images/infrared/mke1.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image2",
+      "url": "images/infrared/mke2.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image3",
+      "url": "images/infrared/mke3.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image4",
+      "url": "images/infrared/mke4.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image5",
+      "url": "images/infrared/mke5.jpg"
+    },
+    {
+      "name":"Around Milwaukee Image6",
+      "url": "images/infrared/mke6.jpg"
+    },
+    {
+      "name":"Around New Jersey Image1",
+      "url": "images/infrared/nj1.jpg"
+    },
+    {
+      "name":"Around New Jersey Image2",
+      "url": "images/infrared/nj2.jpg"
+    },
+    {
+      "name":"Around New Jersey Image3",
+      "url": "images/infrared/nj3.jpg"
+    },
+    {
+      "name":"New York Covid Image1",
+      "url": "images/infrared/nyc1.jpg"
+    },
+    {
+      "name":"New York Covid Image2",
+      "url": "images/infrared/nyc2.jpg"
+    },
+    {
+      "name":"New York Covid Image3",
+      "url": "images/infrared/nyc3.jpg"
+    },
+    {
+      "name":"Midcentury Modern Asian Image1",
+      "url": "images/infrared/peerspace1.jpg"
+    },
+    {
+      "name":"Midcentury Modern Asian Image2",
+      "url": "images/infrared/peerspace2.jpg"
+    },
+    {
+      "name":"Midcentury Modern Asian Image3",
+      "url": "images/infrared/peerspace3.jpg"
+    },
+    {
+      "name":"Midcentury Modern Asian Image4",
+      "url": "images/infrared/peerspace4.jpg"
+    },
+    {
+      "name":"Midcentury Modern Asian Image5",
+      "url": "images/infrared/peerspace5.jpg"
+    }
+  ],
+  "traditional":[
+    {
+      "name":"Blue Ridge Parkway, Mamiya C330, Portra800_1",
+      "url": "images/traditional/brpTrad1.jpg"
+    },
+    {
+      "name":"Blue Ridge Parkway, Mamiya C330, Portra800_2",
+      "url": "images/traditional/brpTrad2.jpg"
+    },
+    {
+      "name":"Blue Ridge Parkway, Mamiya C330, Portra800_3",
+      "url": "images/traditional/brpTrad3.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-1",
+      "url": "images/traditional/laTrad1.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-2",
+      "url": "images/traditional/laTrad2.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-3",
+      "url": "images/traditional/laTrad3.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-4",
+      "url": "images/traditional/laTrad4.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-5",
+      "url": "images/traditional/laTrad5.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-6",
+      "url": "images/traditional/laTrad6.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-7",
+      "url": "images/traditional/laTrad7.jpg"
+    },
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-8",
+      "url": "images/traditional/laTrad8.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_1",
+      "url": "images/traditional/mkeTrad1.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_2",
+      "url": "images/traditional/mkeTrad2.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_3",
+      "url": "images/traditional/mkeTrad3.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_4",
+      "url": "images/traditional/mkeTrad4.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_5",
+      "url": "images/traditional/mkeTrad5.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_6",
+      "url": "images/traditional/mkeTrad6.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_7",
+      "url": "images/traditional/mkeTrad7.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_8",
+      "url": "images/traditional/mkeTrad8.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_9",
+      "url": "images/traditional/mkeTrad9.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_10",
+      "url": "images/traditional/mkeTrad10.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_11",
+      "url": "images/traditional/mkeTrad11.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_12",
+      "url": "images/traditional/mkeTrad12.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_13",
+      "url": "images/traditional/mkeTrad13.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_14",
+      "url": "images/traditional/mkeTrad14.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_15",
+      "url": "images/traditional/mkeTrad15.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_16",
+      "url": "images/traditional/mkeTrad16.jpg"
+    },
+    {
+      "name":"Around Milwaukee, Pentax Spotmatic, Fuji Provia400_17",
+      "url": "images/traditional/mkeTrad17.jpg"
+    },
+
+    {
+      "name":"Around New Jersey, Mamiya C330, Fuji Pro-H 400_2",
+      "url": "images/traditional/njTrad2.jpg"
+    },
+    {
+      "name":"Around New York, Mamiya C330, Fuji Pro-H 400_1",
+      "url": "images/traditional/nyTrad1.jpg"
+    },
+    {
+      "name":"Around New York, Mamiya C330, Fuji Pro-H 400_2",
+      "url": "images/traditional/nyTrad2.jpg"
+    },
+    {
+      "name":"Around New York, Mamiya C330, Fuji Pro-H 400_3",
+      "url": "images/traditional/nyTrad3.jpg"
+    },
+    {
+      "name":"Textural Locations, Pentax Spotmatic, Fuji Provia 400_1",
+      "url": "images/traditional/texture1.jpg"
+    },
+    {
+      "name":"Textural Locations, Pentax Spotmatic, Fuji Provia 400_2",
+      "url": "images/traditional/texture2.jpg"
+    },
+    {
+      "name":"Descend on Bend 2021, Mamiya C300, Illford 400, Kodak Portra 400_1",
+      "url": "images/traditional/van1.jpg"
+    },
+    {
+      "name":"Descend on Bend 2021, Mamiya C300, Illford 400, Kodak Portra 400_2",
+      "url": "images/traditional/van2.jpg"
+    },
+    {
+      "name":"Descend on Bend 2021, Mamiya C300, Illford 400, Kodak Portra 400_3",
+      "url": "images/traditional/van3.jpg"
+    }
+  ],
+  "humans":[
+    {
+      "name":"Brainorchestra1",
+      "url": "images/portraits/brain1.jpg"
+    },
+    {
+      "name":"Bri Blvck 1",
+      "url": "images/portraits/bri1.jpg"
+    },
+    {
+      "name":"Bri Blvck 2",
+      "url": "images/portraits/bri2.jpg"
+    },
+    {
+      "name":"Bri Blvck 3",
+      "url": "images/portraits/bri3.jpg"
+    },
+    {
+      "name":"Friends on a Farm",
+      "url": "images/portraits/maryAndHenry.jpg"
+    },
+    {
+      "name":"The Jack Moves Live in Chicago1",
+      "url": "images/portraits/jack1.jpg"
+    },
+    {
+      "name":"The Jack Moves Live in Chicago2",
+      "url": "images/portraits/jack2.jpg"
+    },
+    {
+      "name":"The Jack Moves Live in Chicago3",
+      "url": "images/portraits/jack3.jpg"
+    },
+    {
+      "name":"The Jack Moves Live in Chicago4",
+      "url": "images/portraits/jack4.jpg"
+    },
+    {
+      "name":"First Mountain in Asheville NC",
+      "url": "images/portraits/jim1.jpg"
+    },
+    {
+      "name":"Jon Evers Mixing and Production1",
+      "url": "images/portraits/jon1.jpg"
+    },
+    {
+      "name":"Jon Evers Mixing and Production2",
+      "url": "images/portraits/jon2.jpg"
+    },
+    {
+      "name":"Jon Evers Mixing and Production3",
+      "url": "images/portraits/jon3.jpg"
+    },
+    {
+      "name":"Jon Evers Bri Blvck Producing 'Paper'",
+      "url": "images/portraits/jonbri1.jpg"
+    },
+    {
+      "name":"Bushwick Sounds, Jersey City",
+      "url": "images/portraits/kuyoski1.jpg"
+    },
+    {
+      "name":"Roky's Reign1",
+      "url": "images/portraits/rok1.jpg"
+    },
+    {
+      "name":"Roky's Reign2",
+      "url": "images/portraits/rok2.jpg"
+    },
+    {
+      "name":"Roky's Reign3",
+      "url": "images/portraits/rok3.jpg"
+    },
+    {
+      "name":"Roky's Reign4",
+      "url": "images/portraits/rok4.jpg"
+    },
+    {
+      "name":"Roky's Reign5",
+      "url": "images/portraits/rok5.jpg"
+    },
+    {
+      "name":"Sara Barbie Headshots1",
+      "url": "images/portraits/sara1.jpg"
+    },
+    {
+      "name":"Zoe West Headshots1",
+      "url": "images/portraits/zoe1.jpg"
+    },
+    {
+      "name":"Zoe West Headshots2",
+      "url": "images/portraits/zoe2.jpg"
+    }
+  ],
+  "ghosts":[
+    { 
+      "name": "Ghost City",
+      "url": "https://ipfs.io/ipfs/bafybeietbca7l5bs3mxi74dnpvatxrzx5shcejizzz6ck2ol3ui6l2q2g4"
+    },
+    {
+      "name": "Ghost Ranch",
+      "url": "https://res.cloudinary.com/ambl-io/video/upload/v1649821000/ambl/ghostcarsMp4_d4yjkl.mp4"
+    },
+    {
+      "name": "Fulton and Gold",
+      "url": "https://ipfs.io/ipfs/bafybeieevaxakvher44ng42tl3l6i5krzrhcvy3tdbc7ehrmrqnl2m7ftm"
+    }
+  ],
+  "coffee":[
+    {
+      "name": "My Humble Abode",
+      "url": "https://arweave.net/x1jFcl-RE_C-OCm4TZNgt9c_Soga-arRGfCUKgEC9zY"
+    },
+    {
+      "name": "Peaks",
+      "url": "https://arweave.net/XjCl_s141n8tkFXGl8KdBJwwNEZps_5f7riFTyEjULk"
+    },
+    {
+      "name": "The Waiting Game",
+      "url": "https://arweave.net/_K3bCS69NeC5Y9saskwHDgp3HCxPkFVXpCTLot81j0U"
+    },
+    {
+      "name": "Amplitude",
+      "url": "https://arweave.net/khQMVLaqcGGk1wHwSXyq1Y_ThnHUS5KC1e1_f_2QLL4"
+    },
+    {
+      "name": "A Familiar Face",
+      "url": "https://arweave.net/EoEnosiBTDdq9Dbe9VGXKF2CJpfgOeAFDToQPgkM41c"
+    },
+    {
+      "name": "Everyone's Business",
+      "url": "https://ipfs.io/ipfs/bafybeifkjno7kiwwtonrlu37zxj6lbsyfvgfqckfnmulwe6n5bmq5cobba"
+    },
+    {
+      "name": "Landed",
+      "url": "https://arweave.net/E4qKRZPa5QyexVm4cXhE17FECEaf8tJwqJmL4QZSYls"
+    },
+    {
+      "name": "Dragons",
+      "url": "https://ipfs.io/ipfs/bafybeihy7jv35lhtf5zkj2bhzvqe7nh6np4klkqz3lem5gmc7zosm7sj7i"
+    },
+    {
+      "name": "Whales Like Coffee",
+      "url": "https://arweave.net/bo2sREF6XqZJQVsDk6KwjGrF0MiyVXWcLo4PKPxSHL4"
+    },
+    {
+      "name": "Cold Brew",
+      "url": "https://ipfs.io/ipfs/bafybeid6k6xg7yc5cgzhwti4bnucwb6cmznkwskyvnbvuprzisxnecqj3a"
+    }
+  ],
+
+  "ambl":[
+    {
+      "name": "Rolling Fog",
+      "url": "https://youtu.be/sUkc8LPrfr8"
+    },
+    {
+      "name": "Badlands National Park",
+      "url": "https://youtu.be/MxsDgKY359I"
+    },
+    {
+      "name": "NYC After Hours",
+      "url": "https://youtu.be/fSGz4N0YARg"
+    },
+    {
+      "name": "Misty Mountaintops",
+      "url": "https://youtu.be/R6_01k2te1k"
+    },
+    {
+      "name": "Spooky Pumpkin",
+      "url": "https://youtu.be/YMqWOeRWvWs"
+    },
+    {
+      "name": "Times Square 4am",
+      "url": "https://youtu.be/pKB0oWIDJRU"
+    },
+    {
+      "name": "Hopewell Valley Vineyard",
+      "url": "https://youtu.be/px4n8mRuJ88"
+    },
+    {
+      "name": "Serene Streams",
+      "url": "https://youtu.be/qJqqPYwgRqw"
+    },
+    {
+      "name": "High Tension Relaxation",
+      "url": "https://youtu.be/G3ARCMTgEeY"
+    },
+    {
+      "name": "Calm Canyon Peaks",
+      "url": "https://youtu.be/PPKxPz5uJ8g"
+    },
+    {
+      "name": "Beachside Relaxation",
+      "url": "https://youtu.be/48prz4ixjaI"
+    }
+  ],
+
+  "home1":[
+
+    {
+      "name":"Channel Islands, San Marco, Canon 5Diii-6",
+      "url": "images/traditional/laTrad6.jpg"
+    },
+
+    {
+      "name":"Around New Jersey, Mamiya C330, Fuji Pro-H 400_2",
+      "url": "images/traditional/njTrad2.jpg"
+    },
+    {
+      "name":"Blue Ridge Parkway Infrared Image",
+      "url": "images/infrared/brp1.jpg"
+    },
+    {
+      "name":"Santa Monica Image1",
+      "url": "images/infrared/la1.jpg"
+    },
+    {
+      "name":"Bri Blvck 2",
+      "url": "images/portraits/bri2.jpg"
+    }
+
+
+  ],
+  "home2":[
+    {
+      "name":"Channel Islands Infrared Image1",
+      "url": "images/infrared/channel-islands1.jpg"
+    },
+
+    {
+      "name":"Roky's Reign3",
+      "url": "images/portraits/rok3.jpg"
+    },
+    {
+      "name":"Santa Monica Image3",
+      "url": "images/infrared/la3.jpg"
+    },
+    {
+      "name":"The Jack Moves Live in Chicago4",
+      "url": "images/portraits/jack4.jpg"
+    },
+    {
+      "name":"Channel Islands Infrared Image4",
+      "url": "images/infrared/channel-islands4.jpg"
+    },
+    {
+      "name":"New York Covid Image2",
+      "url": "images/infrared/nyc2.jpg"
+    }
+  ],
+  "home3":[
+    {
+      "name":"Around New Jersey Image1",
+      "url": "images/infrared/nj1.jpg"
+    },
+    {
+      "name":"Sara Barbie Headshots1",
+      "url": "images/portraits/sara1.jpg"
+    },
+    {
+      "name":"Around New Jersey Image2",
+      "url": "images/infrared/nj2.jpg"
+    },
+    
+    {
+      "name":"Bushwick Sounds, Jersey City",
+      "url": "images/portraits/kuyoski1.jpg"
+    },
+
+    {
+      "name":"Midcentury Modern Asian Image4",
+      "url": "images/infrared/peerspace4.jpg"
+    }
+  ],
+  "phil":[
+    {
+      "name":"phil",
+      "url": "images/phil.jpg"
+    }
+  ]
+}
